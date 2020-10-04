@@ -1,0 +1,249 @@
+S.No,Alias,Software Name,Software Type
+1,adobe reader,Adobe Acrobat Reader DC 2019.021.20058.01,Standard
+2,citrix,Citrix Receiver 14.8.0.02,Standard
+3,winzip,Corel Winzip 22.5.13114.03,Standard
+4,graphics driver,DisplayLink Graphics Driver 9.2.2220,Standard
+5,desktop itcm display,Enable ITCM Display  on Desktop 1.0,Standard
+6,fireEye,FireEye Endpoint Agent 26.21.10.01,Standard
+7,chrome,Google Chrome Enterprise 77.0.3865.01,Standard
+8,ms infopath,Microsoft InfoPath ProPlus 2013 32Bit 15.0.4753.1001,Standard
+9,ms office,Microsoft Office ProPlus 2016 32Bit 16.0.4266.1001,Standard
+10,skype,Microsoft Skype for Business Meeting Update 5.0.8308.02,Standard
+11,yammer,Microsoft Yammer 64bit 1.3.2.01,Standard
+12,mobility center,Mobility Center 1.6,Standard
+13,sap editor,SAP GUI with Script Legacy Text editor Patch 7.50.0.02,Standard
+14,sap network connection,SAP Secured Network Connection 2.0.0.02,Standard
+15,,Snow Inventory Agent 5.2.1,Standard
+16,,Symantec Enterprise Vault Outlook Add-in 11.0.1.03,Standard
+17,,Symantec VIP Access 2.2.3.02,Standard
+18,,Teq AVIT WIPS V0.0.0.4.01,Standard
+19,,Veritas Enterprise Vault Outlook Add-in (x64) 12.3.1365.01,Standard
+20,,Enable ITCM Display on Desktop,Standard
+21,,Java 8,Standard
+22,,SAP GUI 7.50 with Business Explorer,Standard
+23,,Snow Inventory Agent,Standard
+24,,Symantec Vault Outlook Add-In,Standard
+25,,WIPS,Standard
+26,,Acro Software Inc CutePDF Writer 3.2.0.01,Standard
+27,,Adobe Acrobat DC 15.006.30198.02,Standard
+28,,Adobe Reader Extended Asian Language Font Pack 15.007.20033,Standard
+29,,Apple Inc. iTunes 12.9.5.7,Standard
+30,,Cisco WebEx Meeting Addon 30.9.0.01,Standard
+31,,Cjwdev AD Photo Edit Free Edition 2.6.1,Standard
+32,,IP Utility 1.0.0.01,Standard
+33,,Microsoft InfoPath ProPlus 2013 64Bit 15.0.4753.1001,Standard
+34,,Microsoft Project ProPlus 2016 32Bit 16.0.4266.1001,Standard
+35,,Microsoft Project ProPlus 2016 64Bit 16.0.4266.1001,Standard
+36,,Microsoft Visio ProPlus 2016 32Bit 16.0.4266.1001,Standard
+37,,Microsoft Visio ProPlus 2016 64Bit 16.0.4266.1001,Standard
+38,,Noble System Composer Launchpad 114.6.2.01,Standard
+39,,Simon Tatham PuTTY 64bit 0.70.0.01,Standard
+40,,Stand By Soft Ltd MOOS Project Viewer 3.2.1,Standard
+41,,Wireshark 2.4.5.01,Standard
+42,,AD Photo Edit,Standard
+43,,Adobe Acrobat DC 15,Standard
+44,,Adobe Reader Extended Asian Language Font Pack,Standard
+45,,Adopt,Standard
+46,,Cisco Systems IP Communiator 8.6.6.01,Standard
+47,,CutePDF Writer,Standard
+48,,IP Utility,Standard
+49,,iTunes,Standard
+50,,Microsoft InfoPath ProPlus 2013 64Bit,Standard
+51,,Microsoft Office ProPlus 2016 64Bit 16.0.4266.1002,Standard
+52,,Microsoft Project ProPlus 2016 32Bit,Standard
+53,,Microsoft Project ProPlus 2016 64Bit,Standard
+54,,Microsoft Visio Pro 2013 15.0.4569.150601,Standard
+55,,Microsoft Visio ProPlus 2016 32Bit,Standard
+56,,Microsoft Visio ProPlus 2016 64Bit,Standard
+57,,MOOS Project Viewer,Standard
+58,,PuTTY 64bit,Standard
+59,,SalesForce,Standard
+60,,Sophos Endpoint Security and Control,Standard
+61,,WalkMe Browser Add-on 2.2.31.01,Standard
+62,,Wireshark,Standard
+63,,Cisco Agent Desktop 85.1.21.01,Standard
+64,,Cisco UCCE Supervisor Agent 85.1.21.01,Standard
+65,,ClearCost 1.2.1.01,Standard
+66,,DisplayLink Graphics Driver 8.5.3739,Standard
+67,,GN Audio A/S Jabra Direct 3.12.1955.01,Standard
+68,,Microsoft InfoPath Fix 1.0.0.01,Standard
+69,,Microsoft Teams  1.2.0.4664,Standard
+70,,SAP BusinessObjects EPM add-in for Microsoft Office 10.0.0.10126,Standard
+71,,Sophos Update Reg Fix 1.0,Standard
+72,,Tim Kosse FileZilla Client 3.41.2.01,Standard
+73,,Windows 10 Enterprise 1903 Upgrade 1.1,Standard
+74,,3CDaemon 2.0.0.01,Standard
+75,,iSell ITQuoter - AU 5.8.2.04,Standard
+76,,iSell ITQuoter - NZ 5.8.2.04,Standard
+77,,Teamwire 1.7.0.01,Standard
+78,,Adobe Creative Cloud,Standard
+79,,Active X Control,Standard
+80,,adobe flash player,Standard
+81,,Adobe reader plugin,Standard
+82,,Altova XML Spy,Standard
+83,creative cloud,Azure Portal App,Non-standard
+84,activex,Azure Storage Explorer,Non-standard
+85,flash player,BMS Software JAVA,Non-standard
+86,adobe plugin,Brady workstation,Non-standard
+87,altova,canon ts3160 printer,Non-standard
+88,azure app,Cisco Agent for HARDPHONE,Non-standard
+89,azure explorer,Cisco AnyConnect Secure Mobility Client,Non-standard
+90,bms java,CISCO Webex,Non-standard
+91,brady,PluralSight Offline Player,Non-standard
+92,printer,Activex,Non-standard
+93,cisco,Adobe Creative Cloud (All apps),Non-standard
+94,cisco,ALM - Application Lifecycle Management,Non-standard
+95,cisco,AWS CLI,Non-standard
+96,,Azure PowerShell Module,Non-standard
+97,,BARCODE3_0,Non-standard
+98,,Brother Printer Driver,Non-standard
+99,,Caffeine,Non-standard
+100,,Camtasia,Non-standard
+101,,Certificate and VPN Client,Non-standard
+102,,CheckPoint Endpoint Security VPN,Non-standard
+103,,Cisco Packet Tracer,Non-standard
+104,,Cisco Webex Meeting app,Non-standard
+105,,Citrix Files for Windows and Citrix Files for Outlook,Non-standard
+106,,Citrix Gateway Plug-in,Non-standard
+107,,Citrix GW Client,Non-standard
+108,,Citrix Receiver,Non-standard
+109,,ClearCost Elements,Non-standard
+110,,Composer Agent Software,Non-standard
+111,,DBeaver Community Edition,Non-standard
+112,,Dell drivers for USB to Serial connection,Non-standard
+113,,Dell monitor,Non-standard
+114,,Enterprise Vault,Non-standard
+115,,Epson Printer XP-2105 driver,Non-standard
+116,,EpsonScan2,Non-standard
+117,,ERSIN,Non-standard
+118,,Evoluent Mouse Driver,Non-standard
+119,,File Maker Pro 16,Non-standard
+120,,Filemaker Pro Client,Non-standard
+121,,FileOpen Plug-in Installers for Windows,Non-standard
+122,,FLY for AvePoint,Non-standard
+123,,FortiClient,Non-standard
+124,,FortiClient VPN,Non-standard
+125,,FTP client,Non-standard
+126,,Fujitsu ScanSnap,Non-standard
+127,,Fujitsu Workplace Protect,Non-standard
+128,,Global Connect,Non-standard
+129,,Global Protect VPN,Non-standard
+130,,GNS3,Non-standard
+131,,GoCanvas,Non-standard
+132,,Google Chrome,Non-standard
+133,,Google Japanese IME,Non-standard
+134,,HEIF Image Extensions,Non-standard
+135,,HP Laser Printer M277dw,Non-standard
+136,,Hyper-V Manager,Non-standard
+137,,IPsec Fortinet Client,Non-standard
+138,,Jabra Direct,Non-standard
+139,,Java,Non-standard
+140,,JuniperSetupClient,Non-standard
+141,,Keypass,Non-standard
+142,PowerBI,PowerBI Desktop,Non-standard
+143,,Logitech Options and Unifying Software,Non-standard
+144,,Logitech Options Software,Non-standard
+145,,Logitech Setpoint,Non-standard
+146,,logitech Universal Receiver Software,Non-standard
+147,,LogMeIn,Non-standard
+148,,LogMeIn Plugin for IE,Non-standard
+149,,MAPILab - Mail Merge Toolkit,Non-standard
+150,,Microfocus Unified Finctional Testing,Non-standard
+151,,Microfocus Unified Functional Testing Software,Non-standard
+152,,Microsoft Access Database,Non-standard
+153,,Microsoft Gateway,Non-standard
+154,,Microsoft Power BI,Non-standard
+155,,Microsoft Power BI (Free version),Non-standard
+156,,Microsoft Project,Non-standard
+157,,Microsoft Project Online,Non-standard
+158,,Microsoft Project Viewer,Non-standard
+159,,Microsoft Sharepoint Designer 2013,Non-standard
+160,,Microsoft Silerlight ,Non-standard
+161,,Microsoft Silverlight,Non-standard
+162,,Microsoft Teams,Non-standard
+163,,Microsoft To Do,Non-standard
+164,,Microsofy Visual Studio 2019 Professional,Non-standard
+165,,Mindjet Mind Manager 2019,Non-standard
+166,,Mouse without Borders,Non-standard
+167,,MS Project,Non-standard
+168,,MS SQL,Non-standard
+169,,LogMeIn Add-On,Non-standard
+170,,NetApp Storage Simulator,Non-standard
+171,,New Microsoft edge based on chromium,Non-standard
+172,,Noble softphone,Non-standard
+173,,Noble Systems Composer,Non-standard
+174,,NodeJS,Non-standard
+175,,Notepad++,Non-standard
+176,,NUUO CCTV Software,Non-standard
+177,,O365 Teams,Non-standard
+178,,Office 2016 64bit,Non-standard
+179,,Oracle VirtualBox 6.0.8,Non-standard
+180,,PacketTracer - 7.3.0,Non-standard
+181,,Paint.NET,Non-standard
+182,,pgAdmin,Non-standard
+183,,Photoshop,Non-standard
+184,,PIXMA MP250 Printer and Scanner Drivers,Non-standard
+185,,posh-git module,Non-standard
+186,,Postman,Non-standard
+187,,Powershell,Non-standard
+188,,Powershell DDI,Non-standard
+189,,DYMO LABELWRITER 450,Non-standard
+190,,PuTTY,Non-standard
+191,,pycharm,Non-standard
+192,,Python,Non-standard
+193,,Qantas Printer Driver,Non-standard
+194,,Qlik Sense,Non-standard
+195,,Quicktime video player,Non-standard
+196,,R for Windows,Non-standard
+197,,Remote Server Administration Tools for Windows 10,Non-standard
+198,,RSA SecurID Token,Non-standard
+199,,RSS Reader,Non-standard
+200,,Salesforce CLI,Non-standard
+201,,Salesforce Dataloader + Java,Non-standard
+202,,Saver EVO Software,Non-standard
+203,,Screaming Frog,Non-standard
+204,,SharePoint Designer,Non-standard
+205,,Silverlight,Non-standard
+206,,SIPhone for Noble on Desktop,Non-standard
+207,,Skype,Non-standard
+208,,Skype for Business Online,Non-standard
+209,,SmartExporter Client Software,Non-standard
+210,,SnagIT,Non-standard
+211,,SOAPui,Non-standard
+212,,SonicWall VPN,Non-standard
+213,,SQL Server Express,Non-standard
+214,,SQL Server Management Studio,Non-standard
+215,,Sun Java,Non-standard
+216,,Symantec VIP,Non-standard
+217,,T6 USB Station,Non-standard
+218,,Tableau,Non-standard
+219,,Tape Track - Iron Mountain,Non-standard
+220,,Tapetrack - From Iron Mountain,Non-standard
+221,Teamviewer,Team Viewer,Non-standard
+222,,Telstra Broadband Dongle Software,Non-standard
+223,,TightVNC,Non-standard
+224,,Virtual Box,Non-standard
+225,,Virtual Source BookShelf,Non-standard
+226,,Visual Studio,Non-standard
+227,,VMware,Non-standard
+228,,VMWare Horizon Client,Non-standard
+229,,VMWare Horizon View,Non-standard
+230,,VMware VPN Client ,Non-standard
+231,,VMware Workstation,Non-standard
+232,,VNC,Non-standard
+233,,VNC tiger,Non-standard
+234,,WD security,Non-standard
+235,,Webex,Non-standard
+236,,Windows 10 Printer Drive for HP LaserJet Printer 1020,Non-standard
+237,,WinMerge,Non-standard
+238,,WinSCP,Non-standard
+239,,WinZip,Non-standard
+240,,Wix Binaries,Non-standard
+241,,WSUS,Non-standard
+242,,XMind,Non-standard
+243,,XPS viewer,Non-standard
+244,,ZebraDesigner,Non-standard
+245,,ZINC,Non-standard
+246,,Zoom,Non-standard
+247,,Zoom Outlook Plugin,Non-standard
+248,,Zoom Video Communcation,Non-standard
